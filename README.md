@@ -10,8 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a motivated **Full Stack Developer** with hands-on experience in designing and developing scalable web applications.  
-My primary strength lies in **backend development**, including **REST API design**, **business logic implementation**, and **database integration**, along with practical frontend experience using **React**.
+I am a motivated and growing full stack developer with exposure to web application development using Java, Spring Boot, and frontend technologies.
 
 I enjoy solving real-world problems, writing clean and maintainable code, and continuously improving my skills to build efficient and reliable software solutions.
 
