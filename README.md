@@ -20,14 +20,17 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 ## 🛠️ Technical Skills
 
 ### 🔹 Languages & Frameworks
-- **Backend:** Java, Spring Boot, Hibernate, JDBC, Node.js, Express.js  
+- **Backend:** Java, Spring Boot, Hibernate, JDBC
+- **Also Familiar with:** Node.js, Express.js  
 - **Frontend:** React, HTML, CSS, JavaScript  
 - **Databases:** MySQL, MongoDB  
 
 ### 🔹 Tools & Technologies
-- Git & GitHub, Maven, Apache Tomcat  
-- Postman, VS Code, Eclipse  
-- MySQL Workbench  
+- Operating Systems: Windows, Linux (Ubuntu)
+- Scripting: Bash (Basic)
+- Git & GitHub, Maven, Apache Tomcat
+- Postman, VS Code, Eclipse
+- MySQL Workbench
 
 ### 🔹 Core Expertise
 - Object-Oriented Programming (OOP)  
@@ -64,8 +67,7 @@ A full-stack web application designed to connect pet adopters with animal shelte
 
 ## 🌱 Currently Learning
 
-- Advanced Spring Boot & Microservices Architecture  
-- JWT-based Authentication & API Security  
+- Spring Boot & Microservices Architecture  
 - Backend Performance Optimization  
 - Cloud Deployment (AWS / Azure)  
 
@@ -74,7 +76,6 @@ A full-stack web application designed to connect pet adopters with animal shelte
 ## 📊 GitHub Stats
 
 ![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam123Patel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam123Patel&layout=compact&theme=radical)
 
 ---
 
