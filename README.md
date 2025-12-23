@@ -31,7 +31,6 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 
 ### 🔹 Core Expertise
 - Object-Oriented Programming (OOP)  
-- RESTful API Development  
 - MVC Architecture  
 - Data Structures & Algorithms  
 
