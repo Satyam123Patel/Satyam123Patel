@@ -40,8 +40,7 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 ## 🚀 Featured Project
 
 ### 🐾 Pet Adoption Management System
-🔗 **Repository:** https://github.com/Satyam123Patel/pet-adoption-system  
-
+ 
 A full-stack web application designed to connect pet adopters with animal shelters and efficiently manage the adoption workflow.
 
 **✨ Key Features**
