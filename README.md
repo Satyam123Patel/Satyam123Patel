@@ -3,7 +3,6 @@
 ## 💻 Full Stack Developer | Java | Spring Boot | React
 
 🎓 B.Tech in Computer Science and Engineering | GGITS, Jabalpur
-
 🎓 Post Graduate Diploma in Advanced Computing | C-DAC, Bengaluru
 📍 Katni, Madhya Pradesh, India
 📧 satyampatelkatni2003@gmail.com
