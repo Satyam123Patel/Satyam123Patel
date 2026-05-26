@@ -1,10 +1,10 @@
 # Hi there, I'm Satyam Patel 👋
 
-## 💻 Full Stack Developer | Java | Spring Boot | React
+🖥️ **Full Stack Developer | Java | Spring Boot | React**
 
-🎓 B.Tech in Computer Science and Engineering | GGITS, Jabalpur
-🎓 Post Graduate Diploma in Advanced Computing | C-DAC, Bengaluru
-📍 Katni, Madhya Pradesh, India
+🎓 B.Tech in Computer Science and Engineering | GGITS, Jabalpur <br>
+🎓 Post Graduate Diploma in Advanced Computing | C-DAC, Bengaluru <br>
+📍 Katni, Madhya Pradesh, India <br>
 📧 satyampatelkatni2003@gmail.com
 
 ---
