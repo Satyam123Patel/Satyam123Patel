@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <!-- Green glow filter -->
+    <filter id="glow-green" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Dark card base -->
+  <rect width="118" height="118" x="1" y="1" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <g transform="translate(60, 52)">
+    <!-- Expanding Pulse Rings -->
+    <circle cx="0" cy="0" r="15" fill="none" stroke="#6db33f" stroke-width="1.5" opacity="0.8">
+      <animate attributeName="r" values="15;32;15" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Spring Boot Leaf Drawing -->
+    <path d="M 0 -22 C 12 -22 22 -12 22 0 C 22 12 12 22 0 22 C -12 22 -22 12 -22 0 C -22 -12 -12 -22 0 -22 Z" fill="none" stroke="#6db33f" stroke-width="2.5" filter="url(#glow-green)"/>
+    <path d="M -15 0 C -5 10 5 10 15 0" fill="none" stroke="#6db33f" stroke-width="2"/>
+    <path d="M 0 -22 L 0 22" stroke="#6db33f" stroke-width="2" stroke-dasharray="2 2"/>
+    
+    <!-- Central pulsing dot -->
+    <circle cx="0" cy="0" r="4" fill="#6db33f" filter="url(#glow-green)">
+      <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <text x="60" y="105" fill="#6db33f" font-family="monospace" font-size="10" font-weight="bold" text-anchor="middle">Spring Boot</text>
+</svg>
